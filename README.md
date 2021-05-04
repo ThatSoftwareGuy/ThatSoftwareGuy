@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ThatSoftwareGuy
-- 👀 I’m interested in trying out new languages and paradigms
+- 👋 Hi, I’m @Matthew-Joyner
+-  👀 I’m interested in trying out new languages and paradigms
 - 🌱 I’m currently learning implemeting PWAs
 - 💞️ I’m looking to collaborate on new ways to get code to market
 
